@@ -1,2 +1,2 @@
 # Tele
-FinalTele
+Repositorio como punto del final.
